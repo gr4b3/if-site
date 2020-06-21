@@ -2,4 +2,4 @@
 
 Essa é minha primeira pagina no github pages :p
 
-<img src="shrek.png.png" >
+<img src="shrek.png" >
